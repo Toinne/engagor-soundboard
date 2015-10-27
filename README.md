@@ -1,3 +1,3 @@
 # Engagor soundboard
 
-Practice with flextypbox
+Practice with flexbox
